@@ -4,7 +4,9 @@ Hey there! I'm a tech enthusiast driven by the endless possibilities of software
 
 ## About Me
 
-As a true tech enthusiast, I thrive on challenges and constantly immerse myself in various personal projects. Learning is my passion, and I don't limit myself to specific languages - for me, they're just tools to experiment with and explore new possibilities. What sets me apart is my insatiable curiosity and willingness to dive into any technology that catches my interest. I believe in pushing boundaries and constantly expanding my skill set in this ever-evolving field.
+As a true tech enthusiast, I thrive on challenges and constantly immerse myself in various personal projects. 
+Learning is my passion, and I don't limit myself to specific languages - for me, they're just tools to experiment with and explore new possibilities. What sets me apart is my insatiable curiosity and willingness to dive into any technology that catches my interest. 
+I believe in pushing boundaries and constantly expanding my skill set in this ever-evolving field.
 
 ## 🛠 Skills and Technologies
 
