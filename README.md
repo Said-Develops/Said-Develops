@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Hi i'm Said Kraimbah and welcome to My GitHub Profile! 👋
 
 Hey there! I'm a tech enthusiast driven by the endless possibilities of software development. I love taking on new challenges and bringing innovative solutions to life.
 
