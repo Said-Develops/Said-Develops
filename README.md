@@ -4,8 +4,9 @@ Hey there! I'm a tech enthusiast driven by the endless possibilities of software
 
 ## About Me
 
-As a true tech enthusiast, I thrive on challenges and constantly immerse myself in various personal projects. 
-Learning is my passion, and I don't limit myself to specific languages - for me, they're just tools to experiment with and explore new possibilities. What sets me apart is my insatiable curiosity and willingness to dive into any technology that catches my interest. 
+As a true tech enthusiast, I thrive on challenges and constantly immerse myself in various personal projects.  
+Learning is my passion, and I don't limit myself to specific languages - for me, they're just tools to experiment with and explore new possibilities.  
+What sets me apart is my insatiable curiosity and willingness to dive into any technology that catches my interest.  
 I believe in pushing boundaries and constantly expanding my skill set in this ever-evolving field.
 
 ## 🛠 Skills and Technologies
@@ -13,7 +14,6 @@ I believe in pushing boundaries and constantly expanding my skill set in this ev
 ### Backend Development
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?style=for-the-badge&logo=cs2&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-
 
 ### Frontend Stack
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -30,8 +30,8 @@ I believe in pushing boundaries and constantly expanding my skill set in this ev
 
 ## 🌐 Let's Connect!
 
+[![Website](https://img.shields.io/badge/Website-said.contact-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://said.contact/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-kraimbah-/)
 
-I'm always open to collaborating on interesting projects and exchanging ideas with fellow developers. Whether it's about solving complex problems or exploring new technologies, I'm excited to connect and create something amazing together!
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate. ✨
+I'm always open to collaborating on interesting projects and exchanging ideas with fellow developers.  
+Whether it's about solving complex problems or exploring new technologies, I'm excited to connect and create something amazing together!
