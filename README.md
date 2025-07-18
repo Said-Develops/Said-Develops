@@ -32,6 +32,7 @@ I believe in pushing boundaries and constantly expanding my skill set in this ev
 ## 🌐 Let's Connect!
 
 [![Website](https://img.shields.io/badge/Website-said.contact-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://said.contact/)
+    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/said-kraimbah-/)
 
 I'm always open to collaborating on interesting projects and exchanging ideas with fellow developers.  
